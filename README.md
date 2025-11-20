@@ -4,7 +4,7 @@ The hierarchical recursion engine I designed in December 2024.
 
 This is the real thing.
 
-`n2_overmind.py` is a drop-in module.
+`maine1_n2_overmind.py` is a drop-in module.
 Add it to any CrewAI / LangGraph / Swarms project.
 It will make your agent stop outputting garbage.
 
